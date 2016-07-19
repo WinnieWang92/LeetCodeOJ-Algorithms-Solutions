@@ -1,0 +1,3 @@
+# LeetCodeOJ-Algorithms-Solutions
+
+Python
